@@ -1,0 +1,4 @@
+UPDATE users SET plan_id = 2 WHERE plan_id = 3;
+SET SQL_SAFE_UPDATES = 0; 
+DELETE FROM plans WHERE id = 3;
+SET SQL_SAFE_UPDATES = 1;
