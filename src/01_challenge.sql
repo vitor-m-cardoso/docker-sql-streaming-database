@@ -1,3 +1,3 @@
-REATE DATABASE Streamingfy;
+CREATE DATABASE Streamingfy;
 
 USE Streamingfy;
